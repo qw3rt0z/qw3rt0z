@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="center">I'm Ameya Sakpal</h2>
+<h2 align="center">I'm qw3rt0z!!</h2>
 <div align="center"> <img src="./code.gif" /> </div>
 <p align="center">
   <strong>14-year-old | ICSE Grade 10 | Tech & AI Enthusiast from India 🇮🇳</strong>
