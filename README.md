@@ -27,10 +27,6 @@ I also explore robotics and automation using Arduino, sensors, and actuators to 
 ###  Connect With Me
 
 <p>
-  <a href="https://instagram.com/ameyasakpal_" target="_blank">
-    <img src="./insta.png" alt="Instagram" width="40"/>
-  </a>&nbsp;&nbsp;
-
   <a href="https://x.com/qw3rt0z" target="_blank">
     <img src="./x.png" alt="X (Twitter)" width="40"/>
   </a>&nbsp;&nbsp;
